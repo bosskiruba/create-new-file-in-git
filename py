@@ -10,3 +10,10 @@ restaurant & Cafes:
 erode,
 amirtham,
 anaporani.
+
+Lodging:
+Chandra park,
+ECR,
+Mango tree,
+ginger,
+golden fruit.
