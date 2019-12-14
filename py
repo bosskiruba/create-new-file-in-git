@@ -6,7 +6,7 @@ test
 welcome
 
 restaurant & Cafes:
-Trichy,
+
 erode,
 amirtham,
 anaporani.
