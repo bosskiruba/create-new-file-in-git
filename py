@@ -10,3 +10,7 @@ restaurant & Cafes:
 erode,
 amirtham,
 anaporani.
+
+Lodging:
+Chandra park,
+ECR.
