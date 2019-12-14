@@ -13,4 +13,7 @@ anaporani.
 
 Lodging:
 Chandra park,
-ECR.
+ECR,
+Mango tree,
+ginger,
+golden fruit.
